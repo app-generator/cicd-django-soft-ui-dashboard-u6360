@@ -3,9 +3,7 @@
 Open-source **Django** project crafted on top of **[Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)**, an open-source `Bootstrap 5` design from [Creative-Tim](https://bit.ly/3fKQZaL).
 Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, `Soft UI Dashboard` is ready to help you create stunning websites and webapps.
 
-- 👉 [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) - `Product page`
-- 👉 [Django Soft Dashboard](https://django-soft-dash.onrender.com) - `LIVE Demo`
-- 🛒 **[Django Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)** - `Premium Version`
+> 👉 [Django Soft Dashboard](https://django-soft-dash-u6360.onrender.com) - `LIVE Demo`
 
 <br />
 
