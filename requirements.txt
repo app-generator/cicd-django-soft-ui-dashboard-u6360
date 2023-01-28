@@ -2,7 +2,7 @@ django
 gunicorn
 python-dotenv
 whitenoise
-git+https://github.com/christian561/django-admin-soft-dashboard
+git+https://github.com/christian561/django-admin-soft-dashboard1
 
 # psycopg2-binary
 # mysqlclient
