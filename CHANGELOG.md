@@ -13,7 +13,7 @@
 
 - Dynamic DataTables:
   - Server-Side Pagination, Search, Export 
-
+1
 ## [1.0.11] 2022-09-17
 ### Improvements
 
